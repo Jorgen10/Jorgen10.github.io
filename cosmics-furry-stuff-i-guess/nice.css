@@ -1,6 +1,6 @@
-.bruh{
+.bruh:hover{
 
-    transform: rotate(45deg);
-    transform: translateZ(0);
+    transform: rotate(30deg);
+    -o-transform: rotate(30deg);
     
 }
